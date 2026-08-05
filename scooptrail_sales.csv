@@ -1,0 +1,36 @@
+sale_id,date,flavor,units_sold,revenue_usd
+1,2026-07-06,Vanilla Bean,7,24.5
+2,2026-07-06,Chocolate Fudge,9,33.75
+3,2026-07-06,Strawberry Swirl,6,21.0
+4,2026-07-06,Mint Chip,16,64.0
+5,2026-07-06,Mango Sorbet,5,21.25
+6,2026-07-06,Salted Caramel,11,49.5
+7,2026-07-06,Cookies & Cream,9,33.75
+8,2026-07-07,Vanilla Bean,7,24.5
+9,2026-07-07,Chocolate Fudge,9,33.75
+10,2026-07-07,Strawberry Swirl,7,24.5
+11,2026-07-07,Mint Chip,14,56.0
+12,2026-07-07,Mango Sorbet,9,38.25
+13,2026-07-07,Salted Caramel,17,76.5
+14,2026-07-07,Cookies & Cream,9,33.75
+15,2026-07-08,Vanilla Bean,5,17.5
+16,2026-07-08,Chocolate Fudge,6,22.5
+17,2026-07-08,Strawberry Swirl,7,24.5
+18,2026-07-08,Mint Chip,17,68.0
+19,2026-07-08,Mango Sorbet,6,25.5
+20,2026-07-08,Salted Caramel,15,67.5
+21,2026-07-08,Cookies & Cream,10,37.5
+22,2026-07-09,Vanilla Bean,3,10.5
+23,2026-07-09,Chocolate Fudge,9,33.75
+24,2026-07-09,Strawberry Swirl,8,28.0
+25,2026-07-09,Mint Chip,16,64.0
+26,2026-07-09,Mango Sorbet,5,21.25
+27,2026-07-09,Salted Caramel,17,76.5
+28,2026-07-09,Cookies & Cream,9,33.75
+29,2026-07-10,Vanilla Bean,10,35.0
+30,2026-07-10,Chocolate Fudge,6,22.5
+31,2026-07-10,Strawberry Swirl,8,28.0
+32,2026-07-10,Mint Chip,9,36.0
+33,2026-07-10,Mango Sorbet,1,4.25
+34,2026-07-10,Salted Caramel,14,63.0
+35,2026-07-10,Cookies & Cream,6,22.5
